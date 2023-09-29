@@ -18,9 +18,7 @@ Welcome to the Music Store Data Analysis project! This project aims to analyze a
 In this project, we perform the following tasks:
 - Data Cleaning: We clean and preprocess the raw data to prepare it for analysis.
 - Exploratory Data Analysis (EDA): We explore the dataset through visualizations and statistical analysis to understand trends, patterns, and correlations.
-- Sales Performance: We assess the store's sales performance over time, identifying peak sales periods and areas for improvement.
-- Customer Segmentation: We segment customers based on their purchasing behavior, helping the store tailor marketing strategies.
-- Recommendations: We provide data-driven recommendations for optimizing sales and customer engagement.
+
 
 ## Data Sources
 The dataset used in this project is sourced from [provide the data source or link here]. It includes information on sales transactions, customer demographics, product details, and more.
