@@ -7,7 +7,6 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Analysis and Results](#analysis-and-results)
 - [Contributing](#contributing)
 - [License](#license)
@@ -47,6 +46,3 @@ We welcome contributions from the open-source community! If you would like to co
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
 
----
-
-Feel free to customize this README template to fit the specifics of your Music Store Data Analysis project. Ensure that you provide clear instructions for installation, usage, and contribution, and include relevant links and visuals to make your project more engaging and accessible to others.
